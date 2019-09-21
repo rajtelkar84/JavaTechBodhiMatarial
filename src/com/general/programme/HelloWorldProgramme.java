@@ -39,7 +39,7 @@ public class HelloWorldProgramme {
 		System.out.println("Hello We will learn java first 131313 @2323");
 	
 		HelloWorldProgramme hwp = new HelloWorldProgramme();
-		hwp.
+		
 		HelloWorldProgramme hwa = new HelloWorldProgramme();
 		hwa.abcd();
 		hwa.cdea();
